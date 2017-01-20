@@ -7,6 +7,8 @@ public class JustATestFile {
 		System.out.println("From Eclipse");
 		
 		System.out.println("Done successfully");
+		
+		System.out.println("Now sending from Remote");
 
 	}
 
